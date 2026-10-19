@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-tdist_random.py
-tdist_random.egg-info/PKG-INFO
-tdist_random.egg-info/SOURCES.txt
-tdist_random.egg-info/dependency_links.txt
-tdist_random.egg-info/top_level.txt
-tests/test_tdist_random.py
