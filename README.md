@@ -2,6 +2,14 @@
 
 平均・分散・自由度・個数を指定して、t分布に従う乱数を返すシンプルなライブラリ（標準ライブラリのみ）。
 
+## インストール
+
+```
+python -m pip install "git+https://github.com/sanrokurintaro/tdist-random.git"
+```
+
+## 使い方
+
 ```python
 from tdist_random import t_random
 

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tdist-random"
+version = "0.1.0"
+description = "Generate random numbers from a t-distribution with given mean, variance and degrees of freedom"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.setuptools]
+py-modules = ["tdist_random"]
